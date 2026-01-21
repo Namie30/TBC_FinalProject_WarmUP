@@ -53,7 +53,7 @@ public class SuccessfulPurchaseScenarioTest {
 
     }
 
-    @Test(description = "login-Testing", priority = 1)
+    @Test(description = "login-Testing and jsut testing some thing", priority = 1)
     public void loginAsStandartUser()
     {
 
@@ -64,7 +64,7 @@ public class SuccessfulPurchaseScenarioTest {
 
     }
 
-    @Test(description = "Add to cart button click", priority = 2)
+    @Test(description = "Add to cart button clic, same here", priority = 2)
     public void addToCart()
     {
 
